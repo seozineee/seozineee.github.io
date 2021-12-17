@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "Seozineee"
+title                    : "SFM, Seojin Forensic Medicine"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "서진"
-description              : "서진리의 자서전"
+description              : "서진이의 법의학, 범죄수사 지식들"
 url                      : # the base hostname & protocol for your site e.g. "https://seozineee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "seozineee/seozineee.github.io"
